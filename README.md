@@ -41,6 +41,6 @@ With hundreds of websites, services and CLI tools available, conducting a cohere
 - Finally, in some cases there may be a need to touch the dark web, especially if the target potentially uses this environment for unethical or illegal activities. Most of the time, tapping into the rabbit holes of the dark web is unnecessary since 99% of the data resides on the clear web. This type of research is mostly manual, it's done through the Tor browser and can expose the investigator to various risks if proper security measures are not implemented.
 
 ## Final considerations
-- The OFM methodology may get slightly updated in time due to a rapidly-changing online landscape and the emergence of newer, more sophisticated tools.
+- The OFM methodology may get updated in time due to a rapidly-changing online landscape and the emergence of more sophisticated tools.
 - In the context of this methodology, OSINT refers to passive, non-intrusive open-source intelligence tasks.
 - Any illegal or unethical use of this information is solely your responsibility.
