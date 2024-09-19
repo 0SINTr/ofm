@@ -18,6 +18,12 @@ The OFM best fits OSINT investigations related to individuals.
 The main goal of OFM is to provide a clear path for performing the **Data Collection** phase of an OSINT investigation, so that enough and diverse data can be passed further to the **Data Process & Analysis** phases.\
 With hundreds of websites, services and CLI tools available, conducting a coherent research may be overwhelming. For this reason, the OSINT-er should have a clear, easy-to-follow plan for collecting data in an organized manner.
 
+**Important!**
+This methodology refers to passive, non-intrusive OSINT tasks.\
+The mentioned tools are just examples, not an exhaustive list.\
+The OFM methodology only addresses the Data Collection phase.\
+The OFM best fits OSINT investigations related to individuals.
+
 ## Steps
 **OFM** is meant to be followed in a **top-down approach**, starting with the widest types and methods of searching for data, and gradually implementing increasingly specialized tools and techniques. In the end, all the collected data is funneled into the **Data Process & Analysis** phase.
 
