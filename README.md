@@ -22,7 +22,7 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
 
 ### Search engines
 - This step may sometimes collect the most amount of data, although this data may be quite scattered and raw in the absence of any kind of automation. The tools used in this step are the most well-known search engines such as **Google**, **Bing**, **Yandex**, **Yahoo** and **DuckDuckGo**.
-- For each search engine, **manual** or **automated** (API-based) **advanced search and scrape** methods can be applied to filter the results via built-in operators or patterns and organize the data in structured formats such as **JSON**.
+- For each search engine, **manual** or **automated** (API-based) **advanced search and scrape** methods can be applied to filter the results via built-in operators or patterns, and organize the data in structured formats e.g. **JSON**.
 
 ### Specialized tools
 - After the first wave of (more or less) relevant data has been collected and filtered from search engines, the next step is to use **specialized OSINT tools** (find some examples in the diagram) on the most relevant bits of data that are available regarding the target (usernames, email addresses, phone numbers, names or nicknames etc.).
@@ -30,7 +30,7 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
 
 ### Social avenues
 - The information collected in the previous two steps may point to one or more **social media profiles** that the target is using. These profiles may include, but not be limited to, well-known social media services - **Facebook**, **Instagram**, **TikTok**, **X** or **Reddit**, secondary or emerging social networks such as **Bluesky** or **Truth Social**, blogs, forums, or chat rooms such as **Telegram**, **Discord**, **Slack** etc.
-- Any of these avenues can lead to discovering more information about the target, either **personal** (age, birthday, photos, locations) or **ideological** / ethical such as political, cultural, religious or sexual preferences, among others. Any such lead can further unravel a suite of pathways to explore, and can also help paint a better picture of the target. This research is **mostly manual**.
+- Any of these avenues can lead to discovering more information about the target, either **personal** (age, birthday, photos, locations) or **ideological** such as political, cultural, religious or sexual preferences, among others. Any such lead can further unravel a suite of pathways to explore, and can also help paint a better picture of the target. This research is **mostly manual**.
 
 ### Data breaches
 - Websites and APIs providing information and search capabilities on **data breaches and pastes** can sometimes prove to be extremely rewarding, especially if the previous steps have not provided a great deal of data about the target. Finding breaches that the target's username or email address has been a part of can provide crucial clues on some of the platforms where the target has (or at least had) accounts or profiles. Furthermore, this type of searches can easily be **automated** via Python scripts and libraries, at very low API costs. Of course, this can again lead to manual research once one or more pieces of data have been found.
