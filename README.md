@@ -6,4 +6,4 @@
 
 **OSINT Funnel Methodology** for creating a coherent data collection workflow in investigations.
 
-
+![ofm](img/ofm.png)
