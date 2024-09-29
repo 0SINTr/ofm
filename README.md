@@ -40,8 +40,8 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
 ### STAGE 2: Specialized tools
 - After the first wave of (more or less) relevant data has been collected and filtered from search engines, the next step is to use **specialized OSINT tools** on the most relevant bits of data that have been collected during Stage 1 (usernames, email addresses, phone numbers, profile URLs etc.).
 - These tools are meant as additional filters for the OSINT investigation, however they can also provide new insights and leads on the target's online presence. Combining these tools with the advanced searches from the previous stage may already build a significant portion of the target's **digital footprint**.
-- Some of the tools used in this stage are:
-    - Username search:
+- Some of the **tools used in this stage** are:
+    - **Username** search:
         - [Sherlock](https://github.com/sherlock-project/sherlock)
         - [Maigret](https://github.com/soxoj/maigret)
         - [Whatsmyname](https://whatsmyname.app/)
@@ -50,7 +50,7 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
         - [Mailcat](https://github.com/sharsil/mailcat)
         - [Inteltechniques Username Tools](https://inteltechniques.com/tools/Username.html)
         - [Bellingcat People Toolkit](https://bellingcat.gitbook.io/toolkit/categories/people)
-    - Email search:
+    - **Email** search:
         - [Holehe](https://github.com/megadose/holehe)
         - [Epieos](https://epieos.com/)
         - [Ghunt](https://github.com/mxrch/GHunt)
@@ -61,7 +61,7 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
 
 ### STAGE 3: Social avenues
 - The information collected in the previous two steps may point to one or more **social media profiles** that the target is using. These profiles may include, but not be limited to, well-known social media services - **Facebook**, **Instagram**, **TikTok**, **X** or **Reddit**, secondary or emerging social networks such as **Bluesky** or **Truth Social**, blogs, forums, or chat rooms such as **Telegram**, **Discord**, **Slack** etc.
-- Any of these avenues can lead to discovering more information about the target, either **personal** (age, birthday, photos, workplace, locations, friends) or **ideological** such as political, cultural, religious or sexual preferences, among others. Any such lead can further unravel a suite of pathways to explore, and can also help paint a better picture of the target. This research is **mostly manual**.
+- Any of these avenues can lead to discovering more information about the target, either **personal** (age, birthday, photos, workplace, locations, friends) or **ideological** such as political, cultural, religious or sexual preferences, among others. Any such lead can further unravel a suite of pathways to explore, and can also help paint a better picture of the target. This research is **mostly manual**, however the tools below may provide additional or faster insight.
 
 ### STAGE 4: Data breaches
 - Websites and APIs providing information and search capabilities on **data breaches and pastes** can sometimes prove to be extremely rewarding, especially if the previous steps have not provided a great deal of data about the target. Finding breaches that the target's username or email address has been a part of can provide crucial clues on some of the platforms where the target has (or at least had) accounts or profiles. Furthermore, this type of searches can easily be **automated** via Python scripts and libraries, at very low API costs. Of course, this can again lead to manual research once one or more pieces of data have been found.
