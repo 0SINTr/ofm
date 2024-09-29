@@ -16,13 +16,25 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
 - The mentioned tools are just examples, not an exhaustive list.
 - The OFM methodology only addresses the Data Collection phase.
 - The OFM best fits OSINT investigations related to individuals.
+- Any OSINT investigations should be preceded by [proper OpSec](https://github.com/0SINTr/ooo).
 
 ## Steps
 **OFM** is meant to be followed in a **top-down approach**, starting with the widest types and methods of searching for data, and gradually implementing increasingly specialized tools and techniques. In the end, all the collected data is funneled into the **Data Process & Analysis** phase.
 
 ### Search engines
-- This step may sometimes collect the most amount of data, although this data may be quite scattered and raw in the absence of any kind of automation. The tools used in this step are the most well-known search engines such as **Google**, **Bing**, **Yandex**, **Yahoo** and **DuckDuckGo**.
-- For each search engine, **manual** or **automated** (API-based) **advanced search and scrape** methods can be applied to filter the results via built-in operators or patterns, and organize the data in structured formats e.g. **JSON**.
+- This step may sometimes collect **the most amount of data**, although this data may be quite scattered and raw in the absence of any kind of automation or filtering algorithm.
+- For each search engine, **manual** or **automated** (API-based) **advanced search and scrape** methods can be applied to filter the results via built-in operators or patterns, and also to organize the data in structured formats e.g. **JSON**.
+- Furthermore, **recursive searching and scraping** should be applied for each piece of **PII** (Personal Identifiable Information, e.g. emails, usernames, profile URLs) collected during previous searches. This can be done best by using an automated tool.
+- The tools used in this step are the most **well-known search engines**, either queried manually or programmatically:
+    - [Google Advanced Search](https://www.google.com/advanced_search)
+    - [Bing Advanced Search](https://support.microsoft.com/en-us/topic/advanced-search-keywords-ea595928-5d63-4a0b-9c6b-0b769865e78a)
+    - [Yandex Advanced Search](https://yandex.com/support/search/query-language/search-operators.html)
+    - [Yahoo Advanced Search](https://search.yahoo.com/web/advanced)
+    - [DuckDuckGo Advanced Search](https://duckduckgo.com/duckduckgo-help-pages/results/syntax/)
+    - [Qwant Advanced Search](https://help.qwant.com/en/docs/qwant-search/searching/comment-utiliser-les-raccourcis-de-recherche-qwick/)
+    - [Startpage Advanced Search](https://support.startpage.com/hc/en-us/articles/4521473758228-Advanced-Search-on-Startpage)
+- Automated **OSINT tool for querying Google** recursively using advanced search methods and filtering search results:
+    - [osintr](https://github.com/0SINTr/osintr)
 
 ### Specialized tools
 - After the first wave of (more or less) relevant data has been collected and filtered from search engines, the next step is to use **specialized OSINT tools** (find some examples in the diagram) on the most relevant bits of data that are available regarding the target (usernames, email addresses, phone numbers, names or nicknames etc.).
