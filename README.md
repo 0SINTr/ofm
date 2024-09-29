@@ -62,11 +62,20 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
 ### STAGE 3: Social avenues
 - The information collected in the previous two steps may point to one or more **social media profiles** that the target is using. These profiles may include, but not be limited to, well-known social media services - **Facebook**, **Instagram**, **TikTok**, **X** or **Reddit**, secondary or emerging social networks such as **Bluesky** or **Truth Social**, blogs, forums, or chat rooms such as **Telegram**, **Discord**, **Slack** etc.
 - Any of these avenues can lead to discovering more information about the target, either **personal** (age, birthday, photos, workplace, locations, friends) or **ideological** such as political, cultural, religious or sexual preferences, among others. Any such lead can further unravel a suite of pathways to explore, and can also help paint a better picture of the target. This research is **mostly manual**, however the **tools** below may provide additional or faster insight.
-    - Socid-Extractor: Extract data from specified URL
-    - Ignorant: Phone number to Snapchat or Instagram
-    - Toutatis: Extract data from Instragram page
-    - Quidam: Extract data via forgotten login
-    - LinkedIn: Extract LinkedIn information
+    - [Socid-Extractor](https://github.com/soxoj/socid-extractor): Extract data from specified URL
+    - [Ignorant](https://github.com/megadose/ignorant): Phone number to Snapchat or Instagram
+    - [Toutatis](https://github.com/megadose/toutatis): Extract data from Instragram page
+    - [Quidam](https://github.com/megadose/Quidam): Extract data via forgotten login
+    - [Nqntnqnqmb](https://github.com/megadose/nqntnqnqmb): Extract LinkedIn information
+    - [Cqfd](https://github.com/megadose/cqfd): Get Skype ID from name
+    - [Telemetryapp](https://www.telemetryapp.io/): Telegram API
+    - [Gitfive](https://github.com/mxrch/GitFive): Search GitHub users
+    - [IntelTechniques Facebook Search](https://inteltechniques.com/tools/Facebook.html)
+    - [IntelTechniques Twitter Search](https://inteltechniques.com/tools/Twitter.html)
+    - [IntelTechniques Instagram Search](https://inteltechniques.com/tools/Instagram.html)
+    - [IntelTechniques LinkedIn Search](https://inteltechniques.com/tools/Linkedin.html)
+    - [IntelTechniques Communities (Reddit, TikTok etc.)](https://inteltechniques.com/tools/Communities.html)
+    - [Bellingcat Social Media Toolkit](https://bellingcat.gitbook.io/toolkit/categories/social-media)
 
 ### STAGE 4: Data breaches
 - Websites and APIs providing information and search capabilities on **data breaches and pastes** can sometimes prove to be extremely rewarding, especially if the previous steps have not provided a great deal of data about the target. Finding breaches that the target's username or email address has been a part of can provide crucial clues on some of the platforms where the target has (or at least had) accounts or profiles. Furthermore, this type of searches can easily be **automated** via Python scripts and libraries, at very low API costs. Of course, this can again lead to manual research once one or more pieces of data have been found.
