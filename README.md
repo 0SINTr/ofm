@@ -34,7 +34,7 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
     - [DuckDuckGo Advanced Search](https://duckduckgo.com/duckduckgo-help-pages/results/syntax/)
     - [Qwant Advanced Search](https://help.qwant.com/en/docs/qwant-search/searching/comment-utiliser-les-raccourcis-de-recherche-qwick/)
     - [Startpage Advanced Search](https://support.startpage.com/hc/en-us/articles/4521473758228-Advanced-Search-on-Startpage)
-- Automated **OSINT tool for querying Google** recursively using advanced search methods and filtering search results:
+- Automated OSINT tool **G.R.A.S.S. - Google Recursive Advanced Search & Scrape**:
     - [osintr](https://github.com/0SINTr/osintr)
 
 ### STAGE 2: Specialized Tools
