@@ -87,11 +87,18 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
     - [CheckLeaked](https://checkleaked.cc/)
     - [Pastebin](https://pastebin.com/)
     - [IntelX](https://intelx.io/)
+    - [H8Mail](https://github.com/khast3x/h8mail)
     - [IntelTechniques Breaches & Leaks](https://inteltechniques.com/tools/Breaches.html)
     - [IntelTechniques Pastes](https://inteltechniques.com/tools/Pastes.html#gsc.tab=0)
 
 ### STAGE 5: Dark Web
-- Finally, in some cases there may be a need to touch the dark web, especially if the target potentially uses this environment for **unethical or illegal activities**. Most of the time, tapping into the rabbit holes of the dark web is unnecessary since 99% of the data resides on the **clear web**. This type of research is **mostly manual**, it's done through the **Tor browser** and can expose the investigator to various **risks** if proper security measures are not implemented.
+- Finally, in some cases there may be a need to touch the dark web, especially if the target potentially uses this environment for **unethical or illegal activities**. Most of the time, tapping into the rabbit holes of the dark web is unnecessary since 99% of the data resides on the **clear web**. This type of research is **mostly manual**, it's done through the **Tor network** and can expose the investigator to various **risks** if proper security measures are not implemented.
+- Most common OSINT tools include:
+    - [Tor Browser](https://www.torproject.org/download/)
+    - [Onion Search](https://github.com/megadose/OnionSearch)
+    - [Midnight Sea](https://github.com/RicYaben/midnight_sea)
+    - [Darkus](https://github.com/Lucksi/Darkus)
+    - [TorBot](https://github.com/DedSecInside)
 
 ## OFM Updates
 - The **OFM may get updated in time** due to a rapidly-changing online landscape and the emergence of more sophisticated tools.
