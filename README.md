@@ -48,7 +48,7 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
         - [Spiderfoot](https://github.com/smicallef/spiderfoot)
         - [Marple](https://github.com/soxoj/marple)
         - [Mailcat](https://github.com/sharsil/mailcat)
-        - [IntelTechniques User Tools](https://inteltechniques.com/tools/Username.html)
+        - [IntelTechniques Username Tools](https://inteltechniques.com/tools/Username.html)
         - [Bellingcat People Toolkit](https://bellingcat.gitbook.io/toolkit/categories/people)
     - **Email** search:
         - [Holehe](https://github.com/megadose/holehe)
