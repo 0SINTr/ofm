@@ -79,7 +79,16 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
 
 ### STAGE 4: Data breaches
 - Websites and APIs providing information and search capabilities on **data breaches and pastes** can sometimes prove to be extremely rewarding, especially if the previous steps have not provided a great deal of data about the target. Finding breaches that the target's username or email address has been a part of can provide crucial clues on some of the platforms where the target has (or at least had) accounts or profiles. Furthermore, this type of searches can easily be **automated** via Python scripts and libraries, at very low API costs. Of course, this can again lead to manual research once one or more pieces of data have been found.
-- Typical tools in this step are **HaveIBeenPwned**, **Dehashed**, **Snusbase**, **LeakCheck**, **Pastebin**, **IntelX** etc.
+- Typical **tools** in this step are:
+    - [HaveIBeenPwned](https://haveibeenpwned.com/)
+    - [Dehashed](https://dehashed.com/)
+    - [Snusbase](https://snusbase.com/)
+    - [LeakCheck](https://leakcheck.io/)
+    - [CheckLeaked](https://checkleaked.cc/)
+    - [Pastebin](https://pastebin.com/)
+    - [IntelX](https://intelx.io/)
+    - [IntelTechniques Breaches & Leaks](https://inteltechniques.com/tools/Breaches.html)
+    - [IntelTechniques Pastes](https://inteltechniques.com/tools/Pastes.html#gsc.tab=0)
 
 ### STAGE 5: Dark web
 - Finally, in some cases there may be a need to touch the dark web, especially if the target potentially uses this environment for **unethical or illegal activities**. Most of the time, tapping into the rabbit holes of the dark web is unnecessary since 99% of the data resides on the **clear web**. This type of research is **mostly manual**, it's done through the **Tor browser** and can expose the investigator to various **risks** if proper security measures are not implemented.
