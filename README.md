@@ -18,14 +18,15 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
 - The OFM best fits OSINT investigations related to individuals.
 - Any OSINT investigations should be preceded by [proper OpSec](https://github.com/0SINTr/ooo).
 
-## Steps
+## Stages
 **OFM** is meant to be followed in a **top-down approach**, starting with the widest types and methods of searching for data, and gradually implementing increasingly specialized tools and techniques. In the end, all the collected data is funneled into the **Data Process & Analysis** phase.
 
-### Search engines
-- This step may sometimes collect **the most amount of data**, although this data may be quite scattered and raw in the absence of any kind of automation or filtering algorithm.
+### STAGE 1: Search engines
+- The main goal of this stage is to **collect more PII** (Personal Identifiable Information, e.g. email addresses and/or usernames) about the target. The discovery of new PII is useful both for **recursively searching the web** for more data on the target, as well as **feeding this PII to specialized OSINT tools** during Stages 2-5.
+- This stage may sometimes collect **the most amount of data**, although this data may be quite scattered and raw in the absence of any kind of automation or filtering algorithm.
 - For each search engine, **manual** or **automated** (API-based) **advanced search and scrape** methods can be applied to filter the results via built-in operators or patterns, and also to organize the data in structured formats e.g. **JSON**.
-- Furthermore, **recursive searching and scraping** should be applied for each piece of **PII** (Personal Identifiable Information, e.g. emails, usernames, profile URLs) collected during previous searches. This can be done best by using an automated tool.
-- The tools used in this step are the most **well-known search engines**, either queried manually or programmatically:
+- Furthermore, **recursive searching and scraping** should be applied for each piece of **PII** collected during previous searches. This can be done best by using an automated tool.
+- The tools used in this stage are the most **well-known search engines**, either queried manually or programmatically:
     - [Google Advanced Search](https://www.google.com/advanced_search)
     - [Bing Advanced Search](https://support.microsoft.com/en-us/topic/advanced-search-keywords-ea595928-5d63-4a0b-9c6b-0b769865e78a)
     - [Yandex Advanced Search](https://yandex.com/support/search/query-language/search-operators.html)
@@ -36,19 +37,39 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
 - Automated **OSINT tool for querying Google** recursively using advanced search methods and filtering search results:
     - [osintr](https://github.com/0SINTr/osintr)
 
-### Specialized tools
-- After the first wave of (more or less) relevant data has been collected and filtered from search engines, the next step is to use **specialized OSINT tools** (find some examples in the diagram) on the most relevant bits of data that are available regarding the target (usernames, email addresses, phone numbers, names or nicknames etc.).
-- These tools are meant to further filter and narrow the search, however they can also provide new insights and leads on the target's online presence. Combining these tools with the advanced searches from the previous step may already build a significant portion of the target's **digital footprint**.
+### STAGE 2: Specialized tools
+- After the first wave of (more or less) relevant data has been collected and filtered from search engines, the next step is to use **specialized OSINT tools** on the most relevant bits of data that have been collected during Stage 1 (usernames, email addresses, phone numbers, profile URLs etc.).
+- These tools are meant as additional filters for the OSINT investigation, however they can also provide new insights and leads on the target's online presence. Combining these tools with the advanced searches from the previous stage may already build a significant portion of the target's **digital footprint**.
+- Some of the tools used in this stage are:
+    - Username search:
+        - Sherlock
+        - Maigret
+        - Whatsmyname
+        - Spiderfoot
+        - Marple
+        - Mailcat
+        - HIBP (breaches)
+        - Inteltechniques Tools
+        - Bellingcat Toolkit
+    - Email search:
+        - Holehe
+        - Ghunt (gmail)
+        - Spiderfoot
+        - Whoxy
+        - HIBP (breaches and pastes)
+        - IntelX
+        - Inteltechniques Tools
+        - Bellingcat Toolkit
 
-### Social avenues
+### STAGE 3: Social avenues
 - The information collected in the previous two steps may point to one or more **social media profiles** that the target is using. These profiles may include, but not be limited to, well-known social media services - **Facebook**, **Instagram**, **TikTok**, **X** or **Reddit**, secondary or emerging social networks such as **Bluesky** or **Truth Social**, blogs, forums, or chat rooms such as **Telegram**, **Discord**, **Slack** etc.
 - Any of these avenues can lead to discovering more information about the target, either **personal** (age, birthday, photos, workplace, locations, friends) or **ideological** such as political, cultural, religious or sexual preferences, among others. Any such lead can further unravel a suite of pathways to explore, and can also help paint a better picture of the target. This research is **mostly manual**.
 
-### Data breaches
+### STAGE 4: Data breaches
 - Websites and APIs providing information and search capabilities on **data breaches and pastes** can sometimes prove to be extremely rewarding, especially if the previous steps have not provided a great deal of data about the target. Finding breaches that the target's username or email address has been a part of can provide crucial clues on some of the platforms where the target has (or at least had) accounts or profiles. Furthermore, this type of searches can easily be **automated** via Python scripts and libraries, at very low API costs. Of course, this can again lead to manual research once one or more pieces of data have been found.
 - Typical tools in this step are **HaveIBeenPwned**, **Dehashed**, **Snusbase**, **LeakCheck**, **Pastebin**, **IntelX** etc.
 
-### Dark web
+### STAGE 5: Dark web
 - Finally, in some cases there may be a need to touch the dark web, especially if the target potentially uses this environment for **unethical or illegal activities**. Most of the time, tapping into the rabbit holes of the dark web is unnecessary since 99% of the data resides on the **clear web**. This type of research is **mostly manual**, it's done through the **Tor browser** and can expose the investigator to various **risks** if proper security measures are not implemented.
 
 ## Final considerations
