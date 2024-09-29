@@ -48,6 +48,7 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
         - [Spiderfoot](https://github.com/smicallef/spiderfoot)
         - [Marple](https://github.com/soxoj/marple)
         - [Mailcat](https://github.com/sharsil/mailcat)
+        - [OSINT Industries](https://www.osint.industries/)
         - [IntelTechniques Username Tools](https://inteltechniques.com/tools/Username.html)
         - [Bellingcat People Toolkit](https://bellingcat.gitbook.io/toolkit/categories/people)
     - **Email** search:
@@ -57,7 +58,17 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
         - [Spiderfoot](https://github.com/smicallef/spiderfoot)
         - [theHarvester](https://github.com/laramies/theHarvester)
         - [Whoxy](https://www.whoxy.com/)
+        - [OSINT Industries](https://www.osint.industries/)
         - [IntelTechniques Email Tools](https://inteltechniques.com/tools/Email.html)
+        - [Bellingcat People Toolkit](https://bellingcat.gitbook.io/toolkit/categories/people)
+    - **Phone Number** search:
+        - [Spiderfoot](https://github.com/smicallef/spiderfoot)
+        - [OSINT Industries](https://www.osint.industries/)
+        - [PhoneInfoga](https://github.com/sundowndev/phoneinfoga)
+        - [ThatsThem](https://thatsthem.com/reverse-phone-lookup)
+        - [PhoneValidator](https://www.phonevalidator.com/)
+        - [Epieos](https://epieos.com/)
+        - [IntelTechniques Phone Tools](https://inteltechniques.com/tools/Telephone.html)
         - [Bellingcat People Toolkit](https://bellingcat.gitbook.io/toolkit/categories/people)
 
 ### STAGE 3: Social Avenues
