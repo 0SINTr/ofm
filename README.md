@@ -4,19 +4,19 @@
 [![Stable Release](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/0SINTr/ofm/releases/tag/v1.0.0)
 [![Last Commit](https://img.shields.io/github/last-commit/0SINTr/ofm)](https://github.com/0SINTr/ofm/commits/main)
 
-**OSINT Funnel Methodology** for creating a coherent data collection workflow in investigations.
+**OSINT Funnel Methodology** for creating a coherent data collection workflow in person-based investigations.
 
 ![ofm_2024](img/ofm.png)
 
 ## OFM GOAL
-The main goal of OFM is to provide a clear path for performing the **Data Collection** phase of an OSINT investigation, so that enough and diverse data can be passed further to the **Data Process & Analysis** phases. With hundreds of websites, services and CLI tools available, conducting a coherent research may be overwhelming. For this reason, the OSINT-er should have a clear, easy-to-follow plan for collecting data in an organized manner.
+The main goal of OFM is to provide a clear path for performing the **Data Collection** phase of an OSINT investigation, so that enough and diverse data can be passed further to the **Data Process & Analysis** phases. With hundreds of websites, services and CLI tools available, conducting a coherent research may be overwhelming. For this reason, the OSINTer should have a clear, easy-to-follow plan for collecting data in an organized manner.
 
 **Important!**
-- This methodology refers to passive, non-intrusive OSINT tasks.
+- This methodology refers to **passive, non-intrusive OSINT tasks**.
 - The mentioned tools are just examples, not an exhaustive list.
-- The OFM methodology only addresses the Data Collection phase.
+- The OFM methodology only addresses the **Data Collection** phase.
 - The OFM best fits OSINT investigations related to individuals.
-- Any OSINT investigations should be preceded by [proper OpSec](https://github.com/0SINTr/ooo).
+- Any OSINT investigations should be preceded by [**proper OpSec**](https://github.com/0SINTr/ooo).
 
 ## Stages
 **OFM** is meant to be followed in a **top-down approach**, starting with the widest types and methods of searching for data, and gradually implementing increasingly specialized tools and techniques. In the end, all the collected data is funneled into the **Data Process & Analysis** phase.
@@ -26,7 +26,7 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
 - This stage may sometimes collect **the most amount of data**, although this data may be quite scattered and raw in the absence of any kind of automation or filtering algorithm.
 - For each search engine, **manual** or **automated** (API-based) **advanced search and scrape** methods can be applied to filter the results via built-in operators or patterns, and also to organize the data in structured formats e.g. **JSON**.
 - Furthermore, **recursive searching and scraping** should be applied for each piece of **PII** collected during previous searches. This can be done best by using an automated tool.
-- The tools used in this stage are the most **well-known search engines**, either queried manually or programmatically:
+- The **tools** used in this stage are the most **well-known search engines**, either queried manually or programmatically:
     - [Google Advanced Search](https://www.google.com/advanced_search)
     - [Bing Advanced Search](https://support.microsoft.com/en-us/topic/advanced-search-keywords-ea595928-5d63-4a0b-9c6b-0b769865e78a)
     - [Yandex Advanced Search](https://yandex.com/support/search/query-language/search-operators.html)
@@ -39,8 +39,8 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
 
 ### STAGE 2: Specialized Tools
 - After the first wave of (more or less) relevant data has been collected and filtered from search engines, the next step is to use **specialized OSINT tools** on the most relevant bits of data that have been collected during Stage 1 (usernames, email addresses, phone numbers, profile URLs etc.).
-- These tools are meant as additional filters for the OSINT investigation, however they can also provide new insights and leads on the target's online presence. Combining these tools with the advanced searches from the previous stage may already build a significant portion of the target's **digital footprint**.
-- Some of the **tools used in this stage** are:
+- These tools are meant as additional filters for the OSINT investigation, however they can also provide **new insights and leads** on the target's online presence. Combining these tools with the advanced searches from the previous stage may already build a significant portion of the target's **digital footprint**.
+- Some of the **tools** used in this stage are:
     - **Username** search:
         - [Sherlock](https://github.com/sherlock-project/sherlock)
         - [Maigret](https://github.com/soxoj/maigret)
@@ -55,6 +55,7 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
         - [Epieos](https://epieos.com/)
         - [Ghunt](https://github.com/mxrch/GHunt)
         - [Spiderfoot](https://github.com/smicallef/spiderfoot)
+        - [theHarvester](https://github.com/laramies/theHarvester)
         - [Whoxy](https://www.whoxy.com/)
         - [IntelTechniques Email Tools](https://inteltechniques.com/tools/Email.html)
         - [Bellingcat People Toolkit](https://bellingcat.gitbook.io/toolkit/categories/people)
@@ -93,7 +94,7 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
 
 ### STAGE 5: Dark Web
 - Finally, in some cases there may be a need to touch the dark web, especially if the target potentially uses this environment for **unethical or illegal activities**. Most of the time, tapping into the rabbit holes of the dark web is unnecessary since 99% of the data resides on the **clear web**. This type of research is **mostly manual**, it's done through the **Tor network** and can expose the investigator to various **risks** if proper security measures are not implemented.
-- Most common OSINT tools include:
+- Most common Dark Web OSINT **tools** include:
     - [Tor Browser](https://www.torproject.org/download/)
     - [Onion Search](https://github.com/megadose/OnionSearch)
     - [Midnight Sea](https://github.com/RicYaben/midnight_sea)
@@ -101,10 +102,10 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
     - [TorBot](https://github.com/DedSecInside)
 
 ## OFM Updates
-- The **OFM may get updated in time** due to a rapidly-changing online landscape and the emergence of more sophisticated tools.
+- The **OFM may get updated over time** due to a rapidly-changing online landscape and the emergence of more sophisticated tools.
 - Tools, websites or services that are not **actively maintained** (2yrs+) will be gradually removed and new ones will be added.
 
 ## Disclaimers
 - In the context of this methodology, OSINT refers to **passive, non-intrusive** open-source intelligence.
-- Tool mentions are **not** endorsements. I am in no way affiliated with any of these tools.
+- Tool mentions are **not** endorsements. I am in **no way** affiliated with any of these tools.
 - Keep in mind that **any illegal or unethical use of this information is solely your responsibility**.
