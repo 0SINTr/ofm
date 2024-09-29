@@ -42,24 +42,22 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
 - These tools are meant as additional filters for the OSINT investigation, however they can also provide new insights and leads on the target's online presence. Combining these tools with the advanced searches from the previous stage may already build a significant portion of the target's **digital footprint**.
 - Some of the tools used in this stage are:
     - Username search:
-        - Sherlock
-        - Maigret
-        - Whatsmyname
-        - Spiderfoot
-        - Marple
-        - Mailcat
-        - HIBP (breaches)
-        - Inteltechniques Tools
-        - Bellingcat Toolkit
+        - [Sherlock](https://github.com/sherlock-project/sherlock)
+        - [Maigret](https://github.com/soxoj/maigret)
+        - [Whatsmyname](https://whatsmyname.app/)
+        - [Spiderfoot](https://github.com/smicallef/spiderfoot)
+        - [Marple](https://github.com/soxoj/marple)
+        - [Mailcat](https://github.com/sharsil/mailcat)
+        - [Inteltechniques Username Tools](https://inteltechniques.com/tools/Username.html)
+        - [Bellingcat People Toolkit](https://bellingcat.gitbook.io/toolkit/categories/people)
     - Email search:
-        - Holehe
-        - Ghunt (gmail)
-        - Spiderfoot
-        - Whoxy
-        - HIBP (breaches and pastes)
-        - IntelX
-        - Inteltechniques Tools
-        - Bellingcat Toolkit
+        - [Holehe](https://github.com/megadose/holehe)
+        - [Epieos](https://epieos.com/)
+        - [Ghunt](https://github.com/mxrch/GHunt)
+        - [Spiderfoot](https://github.com/smicallef/spiderfoot)
+        - [Whoxy](https://www.whoxy.com/)
+        - [Inteltechniques Email Tools](https://inteltechniques.com/tools/Email.html)
+        - [Bellingcat People Toolkit](https://bellingcat.gitbook.io/toolkit/categories/people)
 
 ### STAGE 3: Social avenues
 - The information collected in the previous two steps may point to one or more **social media profiles** that the target is using. These profiles may include, but not be limited to, well-known social media services - **Facebook**, **Instagram**, **TikTok**, **X** or **Reddit**, secondary or emerging social networks such as **Bluesky** or **Truth Social**, blogs, forums, or chat rooms such as **Telegram**, **Discord**, **Slack** etc.
