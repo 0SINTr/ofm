@@ -102,6 +102,7 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
 
 ## OFM Updates
 - The **OFM may get updated in time** due to a rapidly-changing online landscape and the emergence of more sophisticated tools.
+- Tools, websites or services that are not **actively maintained** (2yrs+) will be gradually removed and new ones will be added.
 
 ## Disclaimers
 - In the context of this methodology, OSINT refers to **passive, non-intrusive** open-source intelligence.
