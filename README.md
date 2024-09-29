@@ -93,7 +93,10 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
 ### STAGE 5: Dark Web
 - Finally, in some cases there may be a need to touch the dark web, especially if the target potentially uses this environment for **unethical or illegal activities**. Most of the time, tapping into the rabbit holes of the dark web is unnecessary since 99% of the data resides on the **clear web**. This type of research is **mostly manual**, it's done through the **Tor browser** and can expose the investigator to various **risks** if proper security measures are not implemented.
 
-## Final considerations
+## OFM Updates
 - The **OFM may get updated in time** due to a rapidly-changing online landscape and the emergence of more sophisticated tools.
-- In the context of this methodology, OSINT refers to **passive, non-intrusive** open-source intelligence tasks.
-- **Any illegal or unethical use of this information is solely your responsibility**.
+
+## Disclaimers
+- In the context of this methodology, OSINT refers to **passive, non-intrusive** open-source intelligence.
+- Tool mentions are **not** endorsements. I am in no way affiliated with any of these tools.
+- Keep in mind that **any illegal or unethical use of this information is solely your responsibility**.
