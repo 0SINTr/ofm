@@ -1,3 +1,4 @@
+![ofm-banner](img/ofm-banner.png)
 # OSINT Funnel Methodology
 ### **OFM - Methodology for OSINT Investigations**
 
