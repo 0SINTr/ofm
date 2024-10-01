@@ -14,13 +14,13 @@
 ---
 
 ## 🎯 **OFM GOAL**
-The main goal of OFM is to provide a clear path for performing the **Data Collection** phase of an OSINT investigation, so that enough and diverse data can be passed further to the **Data Process & Analysis** phases. With hundreds of websites, services, and CLI tools available, conducting a coherent research may be overwhelming. For this reason, the OSINTer should have a clear, easy-to-follow plan for collecting data in an organized manner.
+The main goal of **OFM** is to provide a clear path for performing the **Data Collection** phase of an OSINT investigation, so that enough and diverse data can be passed further to the **Data Process & Analysis** phases. With hundreds of websites, services, and CLI tools available, conducting a coherent research may be overwhelming. For this reason, the OSINTer should have a clear, easy-to-follow plan for collecting data in an organized manner.
 
 ### ⚠️ **Important!**
 - This methodology refers to **passive, non-intrusive OSINT tasks**.
 - The mentioned tools are just examples, not an exhaustive list.
-- The OFM methodology only addresses the **Data Collection** phase.
-- The OFM best fits OSINT investigations related to individuals.
+- The **OFM** methodology only addresses the **Data Collection** phase.
+- The **OFM** best fits OSINT investigations related to individuals.
 - Any OSINT investigations should be preceded by [**proper OpSec**](https://github.com/0SINTr/ooo).
 
 ---
@@ -44,7 +44,7 @@ The main goal of OFM is to provide a clear path for performing the **Data Collec
   - [Qwant Advanced Search](https://help.qwant.com/en/docs/qwant-search/searching/comment-utiliser-les-raccourcis-de-recherche-qwick/)
   - [Startpage Advanced Search](https://support.startpage.com/hc/en-us/articles/4521473758228-Advanced-Search-on-Startpage)
 
-- **Automated OSINT Tool:** [**osintr for G.R.A.S.S. - Google Recursive Advanced Search & Scrape**](https://github.com/0SINTr/osintr)
+- **Automated OSINT Tool:** [**osintr *for G.R.A.S.S. - Google Recursive Advanced Search & Scrape***](https://github.com/0SINTr/osintr)
 
 ---
 
