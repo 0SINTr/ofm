@@ -159,7 +159,7 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
 
 ---
 
-## 🍀 **Last Update**
+## 🍀 **Latest Update**
 - Version **v1.1.0** added **browser bookmarks** containing all the tools organized by stages, as well as a few **additional OSINT tools**.
 
 ---
