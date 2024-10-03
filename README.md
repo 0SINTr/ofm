@@ -43,6 +43,9 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
   - [DuckDuckGo Advanced Search](https://duckduckgo.com/duckduckgo-help-pages/results/syntax/)
   - [Qwant Advanced Search](https://help.qwant.com/en/docs/qwant-search/searching/comment-utiliser-les-raccourcis-de-recherche-qwick/)
   - [Startpage Advanced Search](https://support.startpage.com/hc/en-us/articles/4521473758228-Advanced-Search-on-Startpage)
+  - [Baidu Advanced Search](https://www.baidu.com/gaoji/advanced.html)
+  - [Naver Advanced Search](https://www.naver.com/)
+  - [Internet Archive](https://archive.org/advancedsearch.php)
 
 - **Automated OSINT Tool:** [**osintr *for G.R.A.S.S. - Google Recursive Advanced Search & Scrape***](https://github.com/0SINTr/osintr)
 
@@ -60,6 +63,7 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
     - [Spiderfoot](https://github.com/smicallef/spiderfoot)
     - [Marple](https://github.com/soxoj/marple)
     - [Mailcat](https://github.com/sharsil/mailcat)
+    - [Spokeo](https://www.spokeo.com/username-search)
     - [OSINT Industries](https://www.osint.industries/)
     - [IntelTechniques Username Tools](https://inteltechniques.com/tools/Username.html)
     - [Bellingcat People Toolkit](https://bellingcat.gitbook.io/toolkit/categories/people)
@@ -71,17 +75,27 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
     - [Spiderfoot](https://github.com/smicallef/spiderfoot)
     - [theHarvester](https://github.com/laramies/theHarvester)
     - [Whoxy](https://www.whoxy.com/)
+    - [Spokeo](https://www.spokeo.com/email-search)
+    - [sn0int](https://github.com/kpcyrd/sn0int)
     - [OSINT Industries](https://www.osint.industries/)
     - [IntelTechniques Email Tools](https://inteltechniques.com/tools/Email.html)
     - [Bellingcat People Toolkit](https://bellingcat.gitbook.io/toolkit/categories/people)
+    - **Bonus email finders**:
+        - [Snov](https://snov.io/email-finder)
+        - [Experte](https://www.experte.com/email-finder)
+        - [Infoga](https://www.infoga.io/)
+        - [Hunter](https://hunter.io/domain-search)
+        - [Minelead](https://minelead.io/)
+        - [Findemail](https://findemail.io/)
 
   - **Phone Number** search:
     - [Spiderfoot](https://github.com/smicallef/spiderfoot)
-    - [OSINT Industries](https://www.osint.industries/)
     - [PhoneInfoga](https://github.com/sundowndev/phoneinfoga)
     - [ThatsThem](https://thatsthem.com/reverse-phone-lookup)
     - [PhoneValidator](https://www.phonevalidator.com/)
     - [Epieos](https://epieos.com/)
+    - [sn0int](https://github.com/kpcyrd/sn0int)
+    - [OSINT Industries](https://www.osint.industries/)
     - [IntelTechniques Phone Tools](https://inteltechniques.com/tools/Telephone.html)
     - [Bellingcat People Toolkit](https://bellingcat.gitbook.io/toolkit/categories/people)
 
@@ -91,14 +105,15 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
 - The information collected in the previous two steps may point to one or more **social media profiles** that the target is using. These profiles may include, but not be limited to, well-known social media services such as **Facebook**, **Instagram**, **TikTok**, **X**, or **Reddit**, secondary or emerging social networks such as **Bluesky** or **Truth Social**, blogs, forums, or chat rooms such as **Telegram**, **Discord**, **Slack**, etc.
 - Any of these avenues can lead to discovering more information about the target, either **personal** (age, birthday, photos, workplace, locations, friends) or **ideological** such as political, cultural, religious, or sexual preferences, among others. Any such lead can further unravel a suite of pathways to explore, and can also help paint a better picture of the target. This research is **mostly manual**, however the **tools** below may provide additional or faster insight.
 
-  - [Socid-Extractor](https://github.com/soxoj/socid-extractor)
-  - [Ignorant](https://github.com/megadose/ignorant)
-  - [Toutatis](https://github.com/megadose/toutatis)
-  - [Quidam](https://github.com/megadose/Quidam)
-  - [Nqntnqnqmb](https://github.com/megadose/nqntnqnqmb)
-  - [Cqfd](https://github.com/megadose/cqfd)
-  - [Telemetryapp](https://www.telemetryapp.io/)
-  - [Gitfive](https://github.com/mxrch/GitFive)
+  - [SocidExtractor (General)](https://github.com/soxoj/socid-extractor)
+  - [Quidam (General)](https://github.com/megadose/Quidam)
+  - [Ignorant (Snapchat, Instagram)](https://github.com/megadose/ignorant)
+  - [InstaLoader (Instagram)](https://github.com/instaloader/instaloader)
+  - [Toutatis (Instagram)](https://github.com/megadose/toutatis)
+  - [Nqntnqnqmb (LinkedIn)](https://github.com/megadose/nqntnqnqmb)
+  - [Telemetryapp (Telegram)](https://www.telemetryapp.io/)
+  - [Gitfive (GitHub)](https://github.com/mxrch/GitFive)
+  - [Cqfd (Skype)](https://github.com/megadose/cqfd)
   - [IntelTechniques Facebook Search](https://inteltechniques.com/tools/Facebook.html)
   - [IntelTechniques Twitter Search](https://inteltechniques.com/tools/Twitter.html)
   - [IntelTechniques Instagram Search](https://inteltechniques.com/tools/Instagram.html)
@@ -113,14 +128,14 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
 - Typical **tools** in this step are:
   
   - [HaveIBeenPwned](https://haveibeenpwned.com/)
+  - [IntelligenceX](https://intelx.io/)
   - [Dehashed](https://dehashed.com/)
   - [Snusbase](https://snusbase.com/)
   - [LeakCheck](https://leakcheck.io/)
   - [CheckLeaked](https://checkleaked.cc/)
   - [Pastebin](https://pastebin.com/)
-  - [IntelX](https://intelx.io/)
   - [H8Mail](https://github.com/khast3x/h8mail)
-  - [IntelTechniques Breaches & Leaks](https://inteltechniques.com/tools/Breaches.html)
+  - [IntelTechniques Breaches](https://inteltechniques.com/tools/Breaches.html)
   - [IntelTechniques Pastes](https://inteltechniques.com/tools/Pastes.html)
 
 ---
@@ -133,7 +148,8 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
   - [Onion Search](https://github.com/megadose/OnionSearch)
   - [Midnight Sea](https://github.com/RicYaben/midnight_sea)
   - [Darkus](https://github.com/Lucksi/Darkus)
-  - [TorBot](https://github.com/DedSecInside)
+  - [TorBot](https://github.com/DedSecInside/TorBot)
+  - [GoTor](https://github.com/DedSecInside/gotor)
 
 ---
 
