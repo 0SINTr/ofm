@@ -108,7 +108,7 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
   - [SocidExtractor (General)](https://github.com/soxoj/socid-extractor)
   - [Quidam (General)](https://github.com/megadose/Quidam)
   - [Ignorant (Snapchat, Instagram)](https://github.com/megadose/ignorant)
-  - [InstaLoader (Instagram)](https://github.com/instaloader/instaloader)
+  - [Instaloader (Instagram)](https://github.com/instaloader/instaloader)
   - [Toutatis (Instagram)](https://github.com/megadose/toutatis)
   - [Nqntnqnqmb (LinkedIn)](https://github.com/megadose/nqntnqnqmb)
   - [Telemetryapp (Telegram)](https://www.telemetryapp.io/)
