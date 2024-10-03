@@ -45,7 +45,7 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
   - [Startpage Advanced Search](https://support.startpage.com/hc/en-us/articles/4521473758228-Advanced-Search-on-Startpage)
   - [Baidu Advanced Search](https://www.baidu.com/gaoji/advanced.html)
   - [Naver Advanced Search](https://www.naver.com/)
-  - [Internet Archive](https://archive.org/advancedsearch.php)
+  - [Internet Archive Advanced Search](https://archive.org/advancedsearch.php)
 
 - **Automated OSINT Tool:** [**osintr *for G.R.A.S.S. - Google Recursive Advanced Search & Scrape***](https://github.com/0SINTr/osintr)
 
