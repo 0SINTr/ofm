@@ -2,7 +2,7 @@
 # OSINT Funnel Methodology
 ### **OFM - Methodology for OSINT Investigations**
 
-[![Stable Release](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/0SINTr/ofm/releases/tag/v1.0.0)
+[![Stable Release](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/0SINTr/ofm/releases/tag/v1.1.0)
 [![Last Commit](https://img.shields.io/github/last-commit/0SINTr/ofm)](https://github.com/0SINTr/ofm/commits/main)
 
 ---
@@ -156,6 +156,11 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
 ## 🔄 **OFM Updates**
 - The **OFM may get updated over time** due to a rapidly-changing online landscape and the emergence of more sophisticated tools.
 - Tools, websites, or services that are not **actively maintained** (2yrs+) will be gradually removed, and new ones will be added.
+
+---
+
+## 🍀 **Last Update**
+- Version **v1.1.0** added **browser bookmarks** containing all the tools organized by stages, as well as a few **additional OSINT tools**.
 
 ---
 
