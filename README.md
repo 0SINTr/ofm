@@ -168,3 +168,15 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
 - In the context of this methodology, OSINT refers to **passive, non-intrusive** open-source intelligence.
 - Tool mentions are **not** endorsements. I am in **no way** affiliated with any of these tools.
 - Keep in mind that **any illegal or unethical use of this information is solely your responsibility**.
+
+## 📧 Contact for Professional Collaborations
+
+- **Email Address**:  
+  Please direct your inquiries to **sintr.0@pm.me**.
+
+- **Important Guidelines**:  
+  - Use a **professional email** or a **ProtonMail** address.
+  - Keep your message **concise** and written in **English**.
+
+- **Security Notice**:  
+  Emails with **links** or **attachments** will be ignored for security reasons.
