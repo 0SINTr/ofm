@@ -5,13 +5,9 @@
 [![Stable Release](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/0SINTr/ofm/releases/tag/v1.1.0)
 [![Last Commit](https://img.shields.io/github/last-commit/0SINTr/ofm)](https://github.com/0SINTr/ofm/commits/main)
 
----
-
 **OSINT Funnel Methodology** for creating a coherent data collection workflow in person-based investigations.
 
 ![ofm_2024](img/ofm.png)
-
----
 
 ## 🎯 **OFM GOAL**
 The main goal of **OFM** is to provide a clear path for performing the **Data Collection** phase of an OSINT investigation, so that enough and diverse data can be passed further to the **Data Process & Analysis** phases. With hundreds of websites, services, and CLI tools available, conducting a coherent research may be overwhelming. For this reason, the OSINTer should have a clear, easy-to-follow plan for collecting data in an organized manner.
@@ -23,12 +19,8 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
 - The **OFM** best fits OSINT investigations related to individuals.
 - Any OSINT investigations should be preceded by [**proper OpSec**](https://github.com/0SINTr/ooo).
 
----
-
 ## 🚦 **Stages**
 **OFM** is meant to be followed in a **top-down approach**, starting with the widest types and methods of searching for data and gradually implementing increasingly specialized tools and techniques. In the end, all the collected data is funneled into the **Data Process & Analysis** phase.
-
----
 
 ### 🔍 **STAGE 1: Search Engines**
 - The main goal of this stage is to **collect more PII** (Personal Identifiable Information, e.g., email addresses and/or usernames) about the target. The discovery of new PII is useful both for **recursively searching the web** for more data on the target, as well as **feeding this PII to specialized OSINT tools** during Stages 2-5.
@@ -48,8 +40,6 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
   - [Internet Archive Advanced Search](https://archive.org/advancedsearch.php)
 
 - **Automated OSINT Tool:** [**osintr *for G.R.A.S.S. - Google Recursive Advanced Search & Scrape***](https://github.com/0SINTr/osintr)
-
----
 
 ### 🛠️ **STAGE 2: Specialized Tools**
 - After the first wave of (more or less) relevant data has been collected and filtered from search engines, the next step is to use **specialized OSINT tools** on the most relevant bits of data that have been collected during Stage 1 (usernames, email addresses, phone numbers, profile URLs, etc.).
@@ -99,8 +89,6 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
     - [IntelTechniques Phone Tools](https://inteltechniques.com/tools/Telephone.html)
     - [Bellingcat People Toolkit](https://bellingcat.gitbook.io/toolkit/categories/people)
 
----
-
 ### 🌐 **STAGE 3: Social Avenues**
 - The information collected in the previous two steps may point to one or more **social media profiles** that the target is using. These profiles may include, but not be limited to, well-known social media services such as **Facebook**, **Instagram**, **TikTok**, **X**, or **Reddit**, secondary or emerging social networks such as **Bluesky** or **Truth Social**, blogs, forums, or chat rooms such as **Telegram**, **Discord**, **Slack**, etc.
 - Any of these avenues can lead to discovering more information about the target, either **personal** (age, birthday, photos, workplace, locations, friends) or **ideological** such as political, cultural, religious, or sexual preferences, among others. Any such lead can further unravel a suite of pathways to explore, and can also help paint a better picture of the target. This research is **mostly manual**, however the **tools** below may provide additional or faster insight.
@@ -121,8 +109,6 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
   - [IntelTechniques Communities (Reddit, TikTok, etc.)](https://inteltechniques.com/tools/Communities.html)
   - [Bellingcat Social Media Toolkit](https://bellingcat.gitbook.io/toolkit/categories/social-media)
 
----
-
 ### 🔐 **STAGE 4: Data Breaches**
 - Websites and APIs providing information and search capabilities on **data breaches and pastes** can sometimes prove to be extremely rewarding, especially if the previous steps have not provided a great deal of data about the target. Finding breaches that the target's username or email address has been a part of can provide crucial clues on some of the platforms where the target has (or at least had) accounts or profiles. Furthermore, this type of search can easily be **automated** via Python scripts and libraries, at very low API costs. Of course, this can again lead to manual research once one or more pieces of data have been found.
 - Typical **tools** in this step are:
@@ -138,8 +124,6 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
   - [IntelTechniques Breaches](https://inteltechniques.com/tools/Breaches.html)
   - [IntelTechniques Pastes](https://inteltechniques.com/tools/Pastes.html)
 
----
-
 ### 🕵️ **STAGE 5: Dark Web**
 - Finally, in some cases there may be a need to touch the dark web, especially if the target potentially uses this environment for **unethical or illegal activities**. Most of the time, tapping into the rabbit holes of the dark web is unnecessary since 99% of the data resides on the **clear web**. This type of research is **mostly manual**, it's done through the **Tor network** and can expose the investigator to various **risks** if proper security measures are not implemented.
 - Most common Dark Web OSINT **tools** include:
@@ -151,18 +135,12 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
   - [TorBot](https://github.com/DedSecInside/TorBot)
   - [GoTor](https://github.com/DedSecInside/gotor)
 
----
-
 ## 🔄 **OFM Updates**
 - The **OFM may get updated over time** due to a rapidly-changing online landscape and the emergence of more sophisticated tools.
 - Tools, websites, or services that are not **actively maintained** (2yrs+) will be gradually removed, and new ones will be added.
 
----
-
 ## 🍀 **Latest Update**
 - Version **v1.1.0** added **browser bookmarks** containing all the tools organized by stages, as well as a few **additional OSINT tools**.
-
----
 
 ## 📜 **Disclaimers**
 - In the context of this methodology, OSINT refers to **passive, non-intrusive** open-source intelligence.
