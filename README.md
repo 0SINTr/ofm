@@ -147,7 +147,7 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
 - Tool mentions are **not** endorsements. I am in **no way** affiliated with any of these tools.
 - Keep in mind that **any illegal or unethical use of this information is solely your responsibility**.
 
-## 📧 Contact for Professional Collaborations
+## 📧 Professional Collaborations
 
 - **Email Address**:  
   Please direct your inquiries to **sintr.0@pm.me**.
