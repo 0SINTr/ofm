@@ -141,7 +141,7 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
 
 ## 🍀 **Latest Updates**
 - Version **v1.1.0** added **browser bookmarks** containing all the tools organized by stages, as well as a few **additional OSINT tools** - see the **bookmarks** folder.
-- Version **v1.1.1** added a **report template** containing a sample page of an OFM-based report generated during OSINT investigations - see the **template** folder.
+- Version **v1.1.1** added a **report template** file containing a sample page of an OFM-based report generated during OSINT investigations - see the **template** folder.
 
 ## 📜 **Disclaimers**
 - In the context of this methodology, OSINT refers to **passive, non-intrusive** open-source intelligence.
