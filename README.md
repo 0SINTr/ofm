@@ -2,7 +2,7 @@
 # OSINT Funnel Methodology
 ### **OFM - Methodology for OSINT Investigations**
 
-[![Stable Release](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/0SINTr/ofm/releases/tag/v1.1.0)
+[![Stable Release](https://img.shields.io/badge/version-1.1.1-blue.svg)](https://github.com/0SINTr/ofm/releases/tag/v1.1.1)
 [![Last Commit](https://img.shields.io/github/last-commit/0SINTr/ofm)](https://github.com/0SINTr/ofm/commits/main)
 
 **OSINT Funnel Methodology** for creating a coherent data collection workflow in person-based investigations.
@@ -139,8 +139,9 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
 - The **OFM may get updated over time** due to a rapidly-changing online landscape and the emergence of more sophisticated tools.
 - Tools, websites, or services that are not **actively maintained** (2yrs+) will be gradually removed, and new ones will be added.
 
-## 🍀 **Latest Update**
-- Version **v1.1.0** added **browser bookmarks** containing all the tools organized by stages, as well as a few **additional OSINT tools**.
+## 🍀 **Latest Updates**
+- Version **v1.1.0** added **browser bookmarks** containing all the tools organized by stages, as well as a few **additional OSINT tools** - see the **bookmarks** folder.
+- Version **v1.1.1** added a **report template** containing a sample page of an OFM-based report generated during OSINT investigations - see the **template** folder.
 
 ## 📜 **Disclaimers**
 - In the context of this methodology, OSINT refers to **passive, non-intrusive** open-source intelligence.
