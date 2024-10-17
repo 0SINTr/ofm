@@ -68,6 +68,7 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
     - [Spokeo](https://www.spokeo.com/email-search)
     - [sn0int](https://github.com/kpcyrd/sn0int)
     - [OSINT Industries](https://www.osint.industries/)
+    - [PredictaSearch](https://www.predictasearch.com/)
     - [IntelTechniques Email Tools](https://inteltechniques.com/tools/Email.html)
     - [Bellingcat People Toolkit](https://bellingcat.gitbook.io/toolkit/categories/people)
     - **Bonus email finders**:
@@ -86,6 +87,7 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
     - [Epieos](https://epieos.com/)
     - [sn0int](https://github.com/kpcyrd/sn0int)
     - [OSINT Industries](https://www.osint.industries/)
+    - [PredictaSearch](https://www.predictasearch.com/)
     - [IntelTechniques Phone Tools](https://inteltechniques.com/tools/Telephone.html)
     - [Bellingcat People Toolkit](https://bellingcat.gitbook.io/toolkit/categories/people)
 
