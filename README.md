@@ -39,7 +39,8 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
   - [Naver Advanced Search](https://www.naver.com/)
   - [Internet Archive Advanced Search](https://archive.org/advancedsearch.php)
 
-- **Automated OSINT Tool:** [**osintr *for G.R.A.S.S. - Google Recursive Advanced Search & Scrape***](https://github.com/0SINTr/osintr)
+- **Automated OSINT Tool:**
+  - [**osintr** - *for G.R.A.S.S. (Google Recursive Advanced Search & Scrape)*](https://github.com/0SINTr/osintr)
 
 ### 🛠️ **STAGE 2: Specialized Tools**
 - After the first wave of (more or less) relevant data has been collected and filtered from search engines, the next step is to use **specialized OSINT tools** on the most relevant bits of data that have been collected during Stage 1 (usernames, email addresses, phone numbers, profile URLs, etc.).
@@ -95,7 +96,7 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
 
 ### 🌐 **STAGE 3: Social Avenues**
 - The information collected in the previous two steps may point to one or more **social media profiles** that the target is using. These profiles may include, but not be limited to, well-known social media services such as **Facebook**, **Instagram**, **TikTok**, **X**, or **Reddit**, secondary or emerging social networks such as **Bluesky** or **Truth Social**, blogs, forums, or chat rooms such as **Telegram**, **Discord**, **Slack**, etc.
-- Any of these avenues can lead to discovering more information about the target, either **personal** (age, birthday, photos, workplace, locations, friends) or **ideological** such as political, cultural, religious, or sexual preferences, among others. Any such lead can further unravel a suite of pathways to explore, and can also help paint a better picture of the target. This research is **mostly manual**, however the **tools** below may provide additional or faster insight.
+- Any of these avenues can lead to discovering more information about the target, either **personal** (age, birthday, photos, workplace, locations, friends) or **ideological** such as political, cultural, religious, or sexual preferences, among others. Any such lead can further unravel a suite of pathways to explore, and can also help paint a better picture of the target. This research is **partly manual**, however the **tools** below may provide additional or faster insight.
 
 🍀 **NOTE:** There are hundreds of social media OSINT (**SOCMINT**) tools than have been developed over the years. Few of them still work (fully or partially) to this day, however most of them have not been maintained for years mostly because **social media platforms have become more restrictive** when it comes to their search functionality, API access and privacy measures. Therefore, any attempt to list all of these tools would be futile. Recently, more and more **specialized (paid) tools** emerged in the OSINT community and, even though some of them may not be affordable for most users, professional OSINT investigators will rely more and more on these solutions.
 
@@ -153,7 +154,7 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
 
 ### 🕵️ **STAGE 5: Dark Web**
 - Finally, in some cases there may be a need to touch the dark web, especially if the target potentially uses this environment for **unethical or illegal activities**. Most of the time, tapping into the rabbit holes of the dark web is unnecessary since 99% of the data resides on the **clear web**. This type of research is **mostly manual**, it's done through the **Tor network** and can expose the investigator to various **risks** if proper security measures are not implemented.
-- Most common Dark Web OSINT **tools** include:
+- Most common **Dark Web OSINT tools** include:
   
   - [Tor Browser](https://www.torproject.org/download/)
   - [Onion Search](https://github.com/megadose/OnionSearch)
