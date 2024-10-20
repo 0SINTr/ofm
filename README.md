@@ -149,7 +149,7 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
 
 ## 📜 **Disclaimers**
 - In the context of this methodology, OSINT refers to **passive, non-intrusive** open-source intelligence.
-- Tool mentions are **not** endorsements. I am in **no way** affiliated with any of these tools.
+- Tool mentions are **not** endorsements. I am in **no way** affiliated with any of these tools or services.
 - Not every tool mentioned here has been tested by the author of OFM. **Do your own due diligence!**
 - Keep in mind that **any illegal or unethical use of this information is solely your responsibility**.
 
