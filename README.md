@@ -101,7 +101,7 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
 
 🍀 **NOTE:** In the age of information and speed, **real OSINT investigators** would rather have a handful of (paid) specialized tools to rely on anytime, in combination with other tools and APIs mentioned throughout this methodology, than spend hours or days scouring through GitHub, Reddit or other places in search of a functional tool to do their job. The purpose of the **OFM** is to provide a pragmatic and useful path for conducting OSINT investigations, not to blindly list every available tool out there.
 
-- Below you can find some general SOCMINT search tools that are **free** or **partially free**, as well as a list of **paid** tools which is going to be updated periodically.
+- Below you can find some general **SOCMINT** search tools that are **free** or **partially free**, as well as a list of **paid** tools which is going to be updated periodically.
 
   - **General search tools (Free):**
     - [IntelTechniques Facebook Search](https://inteltechniques.com/tools/Facebook.html)
