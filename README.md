@@ -2,7 +2,7 @@
 # OSINT Funnel Methodology
 ### **OFM - Methodology for OSINT Investigations**
 
-[![Stable Release](https://img.shields.io/badge/version-1.1.1-blue.svg)](https://github.com/0SINTr/ofm/releases/tag/v1.1.1)
+[![Stable Release](https://img.shields.io/badge/version-1.1.2-blue.svg)](https://github.com/0SINTr/ofm/releases/tag/v1.1.2)
 [![Last Commit](https://img.shields.io/github/last-commit/0SINTr/ofm)](https://github.com/0SINTr/ofm/commits/main)
 
 **OSINT Funnel Methodology** for creating a coherent data collection workflow in person-based investigations.
