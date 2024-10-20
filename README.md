@@ -127,14 +127,14 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
   - **Specialized SOCMINT tools (Paid):**
     - [Maltego](https://www.maltego.com/search/)
     - [SocialLinks](https://sociallinks.io/)
-	  - [SkopeNow](https://www.skopenow.com/)
-	  - [Neotas](https://www.neotas.com/)
-	  - [ShadowDragon](https://shadowdragon.io/socialnet/)
-	  - [BlackDot](https://blackdotsolutions.com/social-network-analysis-tool/)
-	  - [BabelStreet](https://www.babelstreet.com/solutions/osint-threat-intelligence-platform)
-	  - [Spokeo](https://www.spokeo.com/)
-	  - [OSINT Industries](https://www.osint.industries/)
-	  - [IntelligenceX](https://intelx.io/tools)
+    - [SkopeNow](https://www.skopenow.com/)
+    - [Neotas](https://www.neotas.com/)
+    - [ShadowDragon](https://shadowdragon.io/socialnet/)
+    - [BlackDot](https://blackdotsolutions.com/social-network-analysis-tool/)
+    - [BabelStreet](https://www.babelstreet.com/solutions/osint-threat-intelligence-platform)
+    - [Spokeo](https://www.spokeo.com/)
+    - [OSINT Industries](https://www.osint.industries/)
+    - [IntelligenceX](https://intelx.io/tools)
 
 ### 🔐 **STAGE 4: Data Breaches**
 - Websites and APIs providing information and search capabilities on **data breaches and pastes** can sometimes prove to be extremely rewarding, especially if the previous steps have not provided a great deal of data about the target. Finding breaches that the target's username or email address has been a part of can provide crucial clues on some of the platforms where the target has (or at least had) accounts or profiles. Furthermore, this type of search can easily be **automated** via Python scripts and libraries, at very low API costs. Of course, this can again lead to manual research once one or more pieces of data have been found.
