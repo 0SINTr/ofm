@@ -103,7 +103,7 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
 
 - Below you can find some general SOCMINT search tools that are **free** or **partially free**, as well as a list of **paid** tools which is going to be updated periodically.
 
-  - **General search tools:**
+  - **General search tools (Free):**
     - [IntelTechniques Facebook Search](https://inteltechniques.com/tools/Facebook.html)
     - [IntelTechniques Twitter Search](https://inteltechniques.com/tools/Twitter.html)
     - [IntelTechniques Instagram Search](https://inteltechniques.com/tools/Instagram.html)
@@ -124,7 +124,7 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
 	    - [SOCMINT - Others](https://bellingcat.gitbook.io/toolkit/categories/social-media/multiple-networks)
 	    - [SOCMINT - Others](https://bellingcat.gitbook.io/toolkit/categories/social-media/international)
   
-  - **Specialized tools:**
+  - **Specialized SOCMINT tools (Paid):**
     - [Maltego](https://www.maltego.com/search/)
     - [SocialLinks](https://sociallinks.io/)
 	  - [SkopeNow](https://www.skopenow.com/)
