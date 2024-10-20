@@ -97,21 +97,44 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
 - The information collected in the previous two steps may point to one or more **social media profiles** that the target is using. These profiles may include, but not be limited to, well-known social media services such as **Facebook**, **Instagram**, **TikTok**, **X**, or **Reddit**, secondary or emerging social networks such as **Bluesky** or **Truth Social**, blogs, forums, or chat rooms such as **Telegram**, **Discord**, **Slack**, etc.
 - Any of these avenues can lead to discovering more information about the target, either **personal** (age, birthday, photos, workplace, locations, friends) or **ideological** such as political, cultural, religious, or sexual preferences, among others. Any such lead can further unravel a suite of pathways to explore, and can also help paint a better picture of the target. This research is **mostly manual**, however the **tools** below may provide additional or faster insight.
 
-  - [SocidExtractor (General)](https://github.com/soxoj/socid-extractor)
-  - [Quidam (General)](https://github.com/megadose/Quidam)
-  - [Ignorant (Snapchat, Instagram)](https://github.com/megadose/ignorant)
-  - [Instaloader (Instagram)](https://github.com/instaloader/instaloader)
-  - [Toutatis (Instagram)](https://github.com/megadose/toutatis)
-  - [Nqntnqnqmb (LinkedIn)](https://github.com/megadose/nqntnqnqmb)
-  - [Telemetryapp (Telegram)](https://www.telemetryapp.io/)
-  - [Gitfive (GitHub)](https://github.com/mxrch/GitFive)
-  - [Cqfd (Skype)](https://github.com/megadose/cqfd)
-  - [IntelTechniques Facebook Search](https://inteltechniques.com/tools/Facebook.html)
-  - [IntelTechniques Twitter Search](https://inteltechniques.com/tools/Twitter.html)
-  - [IntelTechniques Instagram Search](https://inteltechniques.com/tools/Instagram.html)
-  - [IntelTechniques LinkedIn Search](https://inteltechniques.com/tools/Linkedin.html)
-  - [IntelTechniques Communities (Reddit, TikTok, etc.)](https://inteltechniques.com/tools/Communities.html)
-  - [Bellingcat Social Media Toolkit](https://bellingcat.gitbook.io/toolkit/categories/social-media)
+🍀 **NOTE:** There are hundreds of social media OSINT (**SOCMINT**) tools than have been developed over the years. Few of them still work (fully or partially) to this day, however most of them have not been maintained for years mostly because **social media platforms have become more restrictive** when it comes to their search functionality, API access and privacy measures. Therefore, any attempt to list all of these tools would be futile. Recently, more and more **specialized (paid) tools** emerged in the OSINT community and, even though some of them may not be affordable for most users, professional OSINT investigators will rely more and more on these solutions.
+
+🍀 **NOTE:** In the age of information and speed, **real OSINT investigators** would rather have a handful of (paid) specialized tools to rely on anytime, in combination with other tools and APIs mentioned throughout this methodology, than spend hours or days scouring through GitHub, Reddit or other places in search of a functional tool to do their job. The purpose of the **OFM** is to provide a pragmatic and useful path for conducting OSINT investigations, not to blindly list every available tool out there.
+
+- Below you can find some general SOCMINT search tools that are **free** or **partially free**, as well as a list of **paid** tools which is going to be updated periodically.
+
+  - **General search tools:**
+    - [IntelTechniques Facebook Search](https://inteltechniques.com/tools/Facebook.html)
+    - [IntelTechniques Twitter Search](https://inteltechniques.com/tools/Twitter.html)
+    - [IntelTechniques Instagram Search](https://inteltechniques.com/tools/Instagram.html)
+    - [IntelTechniques LinkedIn Search](https://inteltechniques.com/tools/Linkedin.html)
+    - [IntelTechniques Communities (Reddit, TikTok, etc.)](https://inteltechniques.com/tools/Communities.html)
+    - [Bellingcat Facebook Tools](https://bellingcat.gitbook.io/toolkit/categories/social-media/facebook)
+	  - [Bellingcat Twitter Tools](https://bellingcat.gitbook.io/toolkit/categories/social-media/twitter)
+	  - [Bellingcat Instagram Tools](https://bellingcat.gitbook.io/toolkit/categories/social-media/instagram)
+	  - [Bellingcat LinkedIn Tools](https://bellingcat.gitbook.io/toolkit/categories/social-media/linkedin)
+	  - [Bellingcat Discord Tools](https://bellingcat.gitbook.io/toolkit/categories/social-media/discord)
+	  - [Bellingcat Telegram Tools](https://bellingcat.gitbook.io/toolkit/categories/social-media/telegram)
+	  - [Bellingcat Reddit Tools](https://bellingcat.gitbook.io/toolkit/categories/social-media/reddit)
+	  - [Bellingcat TikTok Tools](https://bellingcat.gitbook.io/toolkit/categories/social-media/tiktok)
+	  - [Bellingcat VKontakte Tools](https://bellingcat.gitbook.io/toolkit/categories/social-media/vkontakte)
+	  - [Bellingcat YouTube Tools](https://bellingcat.gitbook.io/toolkit/categories/social-media/youtube)
+	  - [Bellingcat Other Networks]()
+	    - [SOCMINT - Others](https://bellingcat.gitbook.io/toolkit/categories/social-media/other-networks)
+	    - [SOCMINT - Others](https://bellingcat.gitbook.io/toolkit/categories/social-media/multiple-networks)
+	    - [SOCMINT - Others](https://bellingcat.gitbook.io/toolkit/categories/social-media/international)
+  
+  - **Specialized tools:**
+    - [Maltego](https://www.maltego.com/search/)
+    - [SocialLinks](https://sociallinks.io/)
+	  - [SkopeNow](https://www.skopenow.com/)
+	  - [Neotas](https://www.neotas.com/)
+	  - [ShadowDragon](https://shadowdragon.io/socialnet/)
+	  - [BlackDot](https://blackdotsolutions.com/social-network-analysis-tool/)
+	  - [BabelStreet](https://www.babelstreet.com/solutions/osint-threat-intelligence-platform)
+	  - [Spokeo](https://www.spokeo.com/)
+	  - [OSINT Industries](https://www.osint.industries/)
+	  - [IntelligenceX](https://intelx.io/tools)
 
 ### 🔐 **STAGE 4: Data Breaches**
 - Websites and APIs providing information and search capabilities on **data breaches and pastes** can sometimes prove to be extremely rewarding, especially if the previous steps have not provided a great deal of data about the target. Finding breaches that the target's username or email address has been a part of can provide crucial clues on some of the platforms where the target has (or at least had) accounts or profiles. Furthermore, this type of search can easily be **automated** via Python scripts and libraries, at very low API costs. Of course, this can again lead to manual research once one or more pieces of data have been found.
@@ -150,7 +173,7 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
 ## 📜 **Disclaimers**
 - In the context of this methodology, OSINT refers to **passive, non-intrusive** open-source intelligence.
 - Tool mentions are **not** endorsements. I am in **no way** affiliated with any of these tools or services.
-- Not every tool mentioned here has been tested by the author of OFM. **Do your own due diligence!**
+- Not every tool mentioned here has been tested by the author of **OFM**. **Do your own due diligence!**
 - Keep in mind that **any illegal or unethical use of this information is solely your responsibility**.
 
 ## 📧 Professional Collaborations
