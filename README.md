@@ -2,7 +2,7 @@
 # OSINT Funnel Methodology
 ### **OFM - Methodology for OSINT Investigations**
 
-[![Stable Release](https://img.shields.io/badge/version-1.1.2-blue.svg)](https://github.com/0SINTr/ofm/releases/tag/v1.1.2)
+[![Stable Release](https://img.shields.io/badge/version-1.1.3-blue.svg)](https://github.com/0SINTr/ofm/releases/tag/v1.1.3)
 [![Last Commit](https://img.shields.io/github/last-commit/0SINTr/ofm)](https://github.com/0SINTr/ofm/commits/main)
 
 **OSINT Funnel Methodology** for creating a coherent data collection workflow in person-based investigations.
@@ -51,11 +51,14 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
     - [Sherlock](https://github.com/sherlock-project/sherlock)
     - [Maigret](https://github.com/soxoj/maigret)
     - [Whatsmyname](https://whatsmyname.app/)
+    - [NameChk](https://namechk.com/)
+    - [UserSearch](https://usersearch.org/)
     - [Spiderfoot](https://github.com/smicallef/spiderfoot)
     - [Marple](https://github.com/soxoj/marple)
     - [Mailcat](https://github.com/sharsil/mailcat)
     - [Spokeo](https://www.spokeo.com/username-search)
     - [OSINT Industries](https://www.osint.industries/)
+    - [OnChain Industries](https://www.onchain.industries/)
     - [IntelTechniques Username Tools](https://inteltechniques.com/tools/Username.html)
     - [Bellingcat People Toolkit](https://bellingcat.gitbook.io/toolkit/categories/people)
 
@@ -63,6 +66,7 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
     - [Holehe](https://github.com/megadose/holehe)
     - [Epieos](https://epieos.com/)
     - [Ghunt](https://github.com/mxrch/GHunt)
+    - [UserSearch](https://usersearch.org/)
     - [Spiderfoot](https://github.com/smicallef/spiderfoot)
     - [theHarvester](https://github.com/laramies/theHarvester)
     - [Whoxy](https://www.whoxy.com/)
@@ -70,6 +74,7 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
     - [sn0int](https://github.com/kpcyrd/sn0int)
     - [Pentester](https://pentester.com/services/)
     - [OSINT Industries](https://www.osint.industries/)
+    - [OnChain Industries](https://www.onchain.industries/)
     - [PredictaSearch](https://www.predictasearch.com/)
     - [IntelTechniques Email Tools](https://inteltechniques.com/tools/Email.html)
     - [Bellingcat People Toolkit](https://bellingcat.gitbook.io/toolkit/categories/people)
@@ -85,6 +90,7 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
     - [Spiderfoot](https://github.com/smicallef/spiderfoot)
     - [PhoneInfoga](https://github.com/sundowndev/phoneinfoga)
     - [ThatsThem](https://thatsthem.com/reverse-phone-lookup)
+    - [UserSearch](https://usersearch.org/)
     - [PhoneValidator](https://www.phonevalidator.com/)
     - [Epieos](https://epieos.com/)
     - [sn0int](https://github.com/kpcyrd/sn0int)
