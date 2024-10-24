@@ -2,7 +2,7 @@
 # OSINT Funnel Methodology
 ### **OFM - Methodology for OSINT Investigations**
 
-[![Stable Release](https://img.shields.io/badge/version-1.1.3-blue.svg)](https://github.com/0SINTr/ofm/releases/tag/v1.1.3)
+[![Stable Release](https://img.shields.io/badge/version-1.1.4-blue.svg)](https://github.com/0SINTr/ofm/releases/tag/v1.1.4)
 [![Last Commit](https://img.shields.io/github/last-commit/0SINTr/ofm)](https://github.com/0SINTr/ofm/commits/main)
 
 **OSINT Funnel Methodology** for creating a coherent data collection workflow in person-based investigations.
@@ -52,7 +52,10 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
     - [Maigret](https://github.com/soxoj/maigret)
     - [Whatsmyname](https://whatsmyname.app/)
     - [NameChk](https://namechk.com/)
-    - [UserSearch](https://usersearch.org/)
+    - [UserSearchORG](https://usersearch.org/)
+    - [UserSearchAI](https://usersearch.ai/)
+    - [BlackBird](https://github.com/p1ngul1n0/blackbird)
+    - [ThatsThem](https://thatsthem.com/reverse-email-lookup)
     - [Spiderfoot](https://github.com/smicallef/spiderfoot)
     - [Marple](https://github.com/soxoj/marple)
     - [Mailcat](https://github.com/sharsil/mailcat)
@@ -66,7 +69,9 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
     - [Holehe](https://github.com/megadose/holehe)
     - [Epieos](https://epieos.com/)
     - [Ghunt](https://github.com/mxrch/GHunt)
-    - [UserSearch](https://usersearch.org/)
+    - [UserSearchORG](https://usersearch.org/)
+    - [UserSearchAI](https://usersearch.ai/)
+    - [BlackBird](https://github.com/p1ngul1n0/blackbird)
     - [Spiderfoot](https://github.com/smicallef/spiderfoot)
     - [theHarvester](https://github.com/laramies/theHarvester)
     - [Whoxy](https://www.whoxy.com/)
@@ -90,7 +95,8 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
     - [Spiderfoot](https://github.com/smicallef/spiderfoot)
     - [PhoneInfoga](https://github.com/sundowndev/phoneinfoga)
     - [ThatsThem](https://thatsthem.com/reverse-phone-lookup)
-    - [UserSearch](https://usersearch.org/)
+    - [UserSearchORG](https://usersearch.org/)
+    - [UserSearchAI](https://usersearch.ai/)
     - [PhoneValidator](https://www.phonevalidator.com/)
     - [Epieos](https://epieos.com/)
     - [sn0int](https://github.com/kpcyrd/sn0int)
